@@ -42,9 +42,6 @@ Copyright (c) 2026 Peter Mercell (petermercell.com) for these modifications. The
 - **Additions by Peter Mercell:**
   - the Nuke node and its disk cache;
   - the edge-band gate around a mask;
-  - the colour staging;
-  - the EXR writer;
-  - the command-line tool.
 
 No safety, disclosure, watermarking or provenance feature of LTX-2.x has been removed or disabled.
 
